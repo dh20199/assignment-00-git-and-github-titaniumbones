@@ -131,5 +131,3 @@ This is where the full list of students is stored.
 
 ** Testing this out yourself
 To run this yourself, you will *need* to install node.js and NPM.  Follow those instructions, then run ~npm run collectjson~ from a terminal(or VSCode; see above fore details) having first navigated to the root directory of the repository. When you reload ~index.html~ you should see a set of cards that also includes your own information.
-
-trivial breaking change
